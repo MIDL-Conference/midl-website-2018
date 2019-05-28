@@ -31,9 +31,3 @@ title: "Sponsorship packages"
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
 * One registration for the entire conference
-
-## <span class="sponsors bronze">Bronze</span>
-
-### <span class="sponsors amount">500 € (excl. VAT)</span>
-
-* A warm handshake

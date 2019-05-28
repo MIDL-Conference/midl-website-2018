@@ -12,7 +12,7 @@ nav:
     path: "/call-for-papers.html"
     icon: "media-document"
   - title: "Sponsors"
-    path: "/sponsorship-packages.html"
+    path: "/sponsors.html"
     icon: "star-filled"
   - title: "Organization"
     path: "/organization.html"
