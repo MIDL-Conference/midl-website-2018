@@ -16,5 +16,3 @@ and the clinic (Ron Summers, NIH; Mathias Prokop, Radboud UMC) and was moderated
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
 [% / %]
-
-Bladibla
