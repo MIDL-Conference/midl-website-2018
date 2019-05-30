@@ -1,12 +1,13 @@
 ---
 title: "Sponsorship packages"
+page_class: "sponsors"
 ---
 
 # Sponsorship packages
 
-## <span class="sponsors platinum">Platinum</span>
+## <span class="platinum">Platinum</span>
 
-### <span class="sponsors amount">10,000 € (excl. VAT)</span>
+### <span class="amount">10,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
@@ -15,18 +16,18 @@ title: "Sponsorship packages"
 * Named sponsor for Opening Dinner, Closing Drinks or conference lunches
 * Five registrations for the entire conference
 
-## <span class="sponsors gold">Gold</span>
+## <span class="gold">Gold</span>
 
-### <span class="sponsors amount">4,000 € (excl. VAT)</span>
+### <span class="amount">4,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book
 * Company flyer or documentation included in attendee welcome package
 * Three registrations for the entire conference
 
-## <span class="sponsors silver">Silver</span>
+## <span class="silver">Silver</span>
 
-### <span class="sponsors amount">2,000 € (excl. VAT)</span>
+### <span class="amount">2,000 € (excl. VAT)</span>
 
 * Acknowledgment during the Opening Dinner and Closing Drinks
 * Company name and logo on the conference website and in the conference program book

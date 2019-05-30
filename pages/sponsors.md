@@ -1,19 +1,20 @@
 ---
 title: "Sponsors"
+page_class: "sponsors"
 ---
 
 # Sponsors
 
-## <span class="sponsors platinum">Platinum</span>
+## <span class="platinum">Platinum</span>
 
-[% .sponsor-logos %]
+[% .logos %]
 [![CIFAR](/sponsors/cifar.jpg){: width="100"}](https://www.cifar.ca)
 [![NVIDIA](/sponsors/nvidia.svg){: width="220"}](https://www.nvidia.co.uk/deep-learning-ai/industries/healthcare/)
 [% / %]
 
-## <span class="sponsors gold">Gold</span>
+## <span class="gold">Gold</span>
 
-[% .sponsor-logos %]
+[% .logos %]
 [![Canon Medical Systems](/sponsors/canon.jpg){: width="240"}](https://eu.medical.canon/)
 [![Change Healthcare](/sponsors/change.svg){: width="180"}](https://www.changehealthcare.com/)
 [![HeartFlow](/sponsors/heartflow.svg){: width="250"}](https://www.heartflow.com/)
@@ -23,9 +24,9 @@ title: "Sponsors"
 [![Zeiss](/sponsors/zeiss.svg){: width="120"}](https://www.zeiss.com/meditec/int/home.html)
 [% / %]
 
-## <span class="sponsors silver">Silver</span>
+## <span class="silver">Silver</span>
 
-[% .sponsor-logos %]
+[% .logos %]
 [![Aidence](/sponsors/aidence.png){: width="160"}](http://aidence.com/)
 [![Amazon](/sponsors/amazon.png){: width="160"}](https://aws.amazon.com/machine-learning/)
 [![Google](/sponsors/google.svg){: width="200"}](https://research.google.com/)
