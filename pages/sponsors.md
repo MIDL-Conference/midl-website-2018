@@ -12,6 +12,8 @@ page_class: "sponsors"
 [![NVIDIA](/sponsors/nvidia.svg){: width="220"}](https://www.nvidia.co.uk/deep-learning-ai/industries/healthcare/)
 [% / %]
 
+---
+
 ## <span class="gold">Gold</span>
 
 [% .logos %]
@@ -23,6 +25,8 @@ page_class: "sponsors"
 [![SIEMENS Healthineers](/sponsors/siemens.png){: width="240"}](https://www.healthcare.siemens.com/)
 [![Zeiss](/sponsors/zeiss.svg){: width="120"}](https://www.zeiss.com/meditec/int/home.html)
 [% / %]
+
+---
 
 ## <span class="silver">Silver</span>
 
@@ -42,5 +46,7 @@ page_class: "sponsors"
 [![ScreenPoint Medical](/sponsors/screenpoint.png){: width="180"}](https://www.screenpoint-medical.com/)
 [![Thirona](/sponsors/thirona.png){: width="200"}](https://www.thirona.eu/)
 [% / %]
+
+---
 
 [Details of the sponsorship levels](/sponsorship-packages.html)
