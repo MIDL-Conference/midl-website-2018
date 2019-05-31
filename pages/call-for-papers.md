@@ -35,7 +35,7 @@ preprint server.
 
 ## MIDL Special Issue in Medical Image Analysis
 
-We are happy to announce that Medical Image Analysis, a top journal in the field, has agreed to publish a Special Issue
-based on contributions to MIDL 2018. The best accepted full conference papers will be invited for submission to this
-special issue. Authors of the selected papers will be given the option to extend their original submissions with
-supplementary material.
+We are happy to announce that [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/), a top
+journal in the field, has agreed to publish a Special Issue based on contributions to MIDL 2018. The best accepted full
+conference papers will be invited for submission to this special issue. Authors of the selected papers will be given the
+option to extend their original submissions with supplementary material.
