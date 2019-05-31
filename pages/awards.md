@@ -32,7 +32,7 @@ with input from members of the program committee. The awards were given to:
 
 ## CIFAR Student Travel Grants
 
-![CIFAR](/sponsors/cifar.jpg){: width="150", style="float: right; margin-left: 25px;"}
+![CIFAR](/sponsors/cifar.jpg){: width="150", class="align-right"}
 The CIFAR Student Travel Grants were awarded to:
 
 1. The best first author student papers as based on review scores
