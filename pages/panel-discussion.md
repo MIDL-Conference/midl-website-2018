@@ -11,7 +11,7 @@ and the clinic (Ron Summers, NIH; Mathias Prokop, Radboud UMC) and was moderated
 [% .youtube %]
 <iframe width="720"
         height="405"
-        src="https://www.youtube.com/embed/V1ZjExmFrsA"
+        src="https://www.youtube-nocookie.com/embed/V1ZjExmFrsA""
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
