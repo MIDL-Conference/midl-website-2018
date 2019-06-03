@@ -22,7 +22,7 @@ nav:
     icon: "microphone"
   - title: "Panel discussion"
     path: "/panel-discussion.html"
-    icon: "comment-alt"
+    icon: "comments"
   - title: "Awards"
     path: "/awards.html"
     icon: "award"
