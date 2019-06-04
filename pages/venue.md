@@ -28,6 +28,8 @@ The conference hotel is offering discount rates for stays during the conference 
 
 The hotel rooms are all equipped with a 2.10m long comfortable bed, a spacious worktable, flat screen TV with several interactive functions, free use of Wi-Fi, a safe which is wide enough for a laptop, and a refrigerator in which you can store your own beverages. All rooms are non smoking rooms. Check-in time starts at 3 PM on the day of arrival; check-out needs to be done before 12 PM on the day of departure. Breakfast is served from 6.30 AM until 10 AM on weekdays and until 12 PM during the weekend.
 
+---
+
 ## Royal Tropical Institute
 
 **Website:** [kit.nl](https://kit.nl)

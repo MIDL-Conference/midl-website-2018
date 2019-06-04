@@ -13,6 +13,12 @@
 A big thank you to everyone who attended MIDL 2018 and made the first edition of this conference such a success!
 Hoping to see many of you at [MIDL 2019 in London](https://2019.midl.io).
 
-You can still find here the [conference book](/conference_book.pdf), the [aims and scope](/aims-and-scope.html), the
-[call for papers](/call-for-papers.html), [important dates](/important-dates.html), details about [the venue](/venue.html),
+You can still find here
+the [conference book](/conference_book.pdf),
+the [aims and scope](/aims-and-scope.html),
+the [call for papers](/call-for-papers.html),
+[important dates](/important-dates.html),
+[author instructions](/author-instructions.html),
+details about [the venue](/venue.html)
+and the [special issue in MedIA](/special-issue.html),
 and answers to [frequently asked questions](/faq.html).
