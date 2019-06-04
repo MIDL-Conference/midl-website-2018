@@ -19,6 +19,7 @@ the [aims and scope](/aims-and-scope.html),
 the [call for papers](/call-for-papers.html),
 [important dates](/important-dates.html),
 [author instructions](/author-instructions.html),
-details about [the venue](/venue.html)
-and the [special issue in MedIA](/special-issue.html),
+details about [the venue](/venue.html),
+[registration for the conference](/registration.html),
+the [special issue in MedIA](/special-issue.html),
 and answers to [frequently asked questions](/faq.html).
