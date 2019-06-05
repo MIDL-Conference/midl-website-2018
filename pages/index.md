@@ -13,6 +13,9 @@
 A big thank you to everyone who attended MIDL 2018 and made the first edition of this conference such a success!
 Hoping to see many of you at [MIDL 2019 in London](https://2019.midl.io).
 
+The videos of the talks are now online and can be found in the [scientific program](/scientific-program.html). All papers, reviews, and comments will remain online on the [OpenReview platform](https://openreview.net/group?id=MIDL.io/2018).
+Some of the best work presented at MIDL appeared in the [MIDL Special Issue in Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis/special-issue/10Q0L1013B8).
+
 You can still find here
 the [conference book](/conference_book.pdf),
 the [aims and scope](/aims-and-scope.html),
