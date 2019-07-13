@@ -3,36 +3,9 @@ title: "Keynotes"
 page_class: "keynotes"
 ---
 
+{% from "_macros.html" import youtube %}
+
 # Keynote speakers
-
-## Dr. Adriana Romero
-### Research Scientist at Facebook AI Research
-
-![Portrait of Adriana Romero](/keynotes/romero.jpg)
-Adriana Romero is a research scientist at Facebook AI Research and an adjunct professor at McGill University.
-Previously, she was a post-doctoral researcher at Montreal Institute for Learning algorithms, advised by Prof.
-Yoshua Bengio. Her research revolves around deep learning techniques to tackle biomedical data analysis challenges,
-addressing impactful problems for society by paving the road towards enabling widespread usage of personalized medicine.
-Adriana received her Ph.D. from the University of Barcelona in 2015 with a thesis on assisting the training of deep
-neural networks with applications to computer vision, advised by Dr. Carlo Gatta. Her PhD included contributions in the
-fields of representation learning and model compression, with applications to image classification, image segmentation
-and remote sensing.
-
----
-
-## Dr. Tim Salimans
-### Research Scientist at OpenAI
-### Scientific Advisor and Co-Founder at Aidence
-
-![Portrait of Tim Salimans](/keynotes/salimans.jpg)
-Tim Salimans is a Machine Learning research scientist working on generative modeling, semi-supervised and unsupervised
-deep learning, and reinforcement learning. He received his PhD from Erasmus University Rotterdam. He is most well known
-for his work on GANs and VAEs. He received the 2014 Lindley prize for his work in variational inference using
-reparameterization and he is the winner of multiple Kaggle competitions. At MIDL he will be speaking about his work with
-Aidence, the Amsterdam startup that's building a Deep Learning software platform to help radiologists improve their
-diagnostic accuracy and reading efficiency.
-
----
 
 ## Prof. Ronald Summers
 
@@ -52,6 +25,8 @@ Journal of Medical Imaging and Academic Radiology and a past member of the edito
 committee member of the Computer-aided Diagnosis section of the annual SPIE Medical Imaging conference and will be
 co-chair of the entire conference in 2018 and 2019.
 
+{{ youtube('_hqT3cS4aa0') }}
+
 ---
 
 ## Dr. Graham Taylor
@@ -67,3 +42,36 @@ understand human and animal behaviour, environmental data (climate or agricultur
 informatics. His work also intersects high performance computing, investigating better ways to leverage hardware
 accelerators to cope with the challenges of large-scale machine learning. He co-organizes the annual CIFAR Deep Learning
 Summer School, and has trained more than 50 students and staff members on AI-related projects.
+
+{{ youtube('YedM4Cslj0g') }}
+
+---
+
+## Dr. Adriana Romero
+### Research Scientist at Facebook AI Research
+
+![Portrait of Adriana Romero](/keynotes/romero.jpg)
+Adriana Romero is a research scientist at Facebook AI Research and an adjunct professor at McGill University.
+Previously, she was a post-doctoral researcher at Montreal Institute for Learning algorithms, advised by Prof.
+Yoshua Bengio. Her research revolves around deep learning techniques to tackle biomedical data analysis challenges,
+addressing impactful problems for society by paving the road towards enabling widespread usage of personalized medicine.
+Adriana received her Ph.D. from the University of Barcelona in 2015 with a thesis on assisting the training of deep
+neural networks with applications to computer vision, advised by Dr. Carlo Gatta. Her PhD included contributions in the
+fields of representation learning and model compression, with applications to image classification, image segmentation
+and remote sensing.
+
+{{ youtube('hztOt1jWTJI') }}
+
+---
+
+## Dr. Tim Salimans
+### Research Scientist at OpenAI
+### Scientific Advisor and Co-Founder at Aidence
+
+![Portrait of Tim Salimans](/keynotes/salimans.jpg)
+Tim Salimans is a Machine Learning research scientist working on generative modeling, semi-supervised and unsupervised
+deep learning, and reinforcement learning. He received his PhD from Erasmus University Rotterdam. He is most well known
+for his work on GANs and VAEs. He received the 2014 Lindley prize for his work in variational inference using
+reparameterization and he is the winner of multiple Kaggle competitions. At MIDL he will be speaking about his work with
+Aidence, the Amsterdam startup that's building a Deep Learning software platform to help radiologists improve their
+diagnostic accuracy and reading efficiency.
