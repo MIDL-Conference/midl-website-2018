@@ -430,7 +430,7 @@ Our approach comprises three parts: a server, which wraps trained deep learning 
          paper='https://openreview.net/pdf?id=HJu7eTojG',
          openreview='https://openreview.net/forum?id=HJu7eTojG')
 }}
-{{ paper('Learning-based solution to phase error correction in T2*-weighted GRE scans.',
+{{ paper('Learning-based solution to phase error correction in T2\*-weighted GRE scans.',
          'Alexander Loktyushin, Philipp Ehses, Bernhard Schölkopf, Klaus Scheffler, *MPI for Biological Cybernetics, Germany*.',
          'Long-TE gradient recalled-echo (GRE) scans are prone to phase artifacts due to B0 inhomogeneity. We propose a learning-based approach that does not rely on navigator readouts and allows to infer phase error offsets directly from corrupted data. Our method does not need to be pre-trained on a database of medical images that match a contrast/acquisition protocol of the input image. A sufficient input is a raw multi-coil spectrum of the image that needs to be corrected. We train a convolutional neural network to predict phase offsets for each k-space line of a 2D image. We synthesize training examples online by reconvolving the corrupted spectrum with point spread functions (PSFs) of the coil sensitivity profiles and superimposing artificial phase errors, which we attempt to predict. We evaluate our approach on “in vivo” data acquired with GRE sequence, and demonstrate an improvement in image quality after phase error correction.',
          paper='https://openreview.net/pdf?id=Hkrmm5ioz',
