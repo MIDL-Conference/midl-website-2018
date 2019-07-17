@@ -9,7 +9,10 @@ twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference/midl-website-2018"
 openreview: "MIDL.io/2018"
+
+show_twitter_button: no
 show_twitter_feed: no
+num_tweets_in_feed: 1
 show_platform_icons: yes
 
 nav:
