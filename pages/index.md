@@ -18,7 +18,6 @@ Some of the best work presented at MIDL appeared in the [MIDL Special Issue in M
 
 You can still find here
 the [conference book](/conference_book.pdf),
-the [aims and scope](/aims-and-scope.html),
 the [call for papers](/call-for-papers.html),
 [important dates](/important-dates.html),
 [author instructions](/author-instructions.html),
