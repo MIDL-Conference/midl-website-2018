@@ -1,6 +1,8 @@
 ---
 title: "Keynotes"
 page_class: "keynotes"
+opengraph:
+  image: "/assets/opengraph/keynotes.png"
 ---
 
 {% from "_macros.html" import youtube %}
