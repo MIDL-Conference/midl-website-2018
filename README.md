@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2d80ed77-dac9-41c9-87bb-6407ed57c276/deploy-status)](https://app.netlify.com/sites/midl-2018/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/2d80ed77-dac9-41c9-87bb-6407ed57c276/deploy-status)
 
 # MIDL 2018 (Amsterdam) website
 
