@@ -5,7 +5,7 @@ primary-color: "#506775"
 content: "pages"
 
 www: "https://2018.midl.io"
-email: "2018@midl.io"
+#email: "2018@midl.io"
 twitter: "midl_conference"
 youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
 github: "MIDL-Conference"
